@@ -1,0 +1,8 @@
+[production]
+last 2 versions
+> 0.5%
+not dead
+
+[development]
+chrome > 70
+not dead
